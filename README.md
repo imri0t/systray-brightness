@@ -1,5 +1,5 @@
 # systray-brightness
-A script intended to utalize powershell scripts in order to adjust screen brightness via an icon on the systray of Windows computers
+A script intended to utilize powershell scripts in order to adjust screen brightness via an icon on the systray of Windows computers
 
 Learning project to start working with subprocess and infi.systray modules
 
